@@ -1,6 +1,5 @@
-
-### 🛠️ Tech States
 <div align="center">
+### 🛠️ Tech States
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
