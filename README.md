@@ -1,6 +1,6 @@
 ## 👩‍💼 Profile
 
-🇬🇧 Sutton High School(~2018.07)<br/>
+🇬🇧 Sutton High School(2014.09~2018.07)<br/>
 🇰🇷 Ewha Womans University High School (2018.8~2020.2)<br/>
 🇰🇷 Dongduk Women's University Dept. of Computer Science (2020~) <br/>
 <br><br>
