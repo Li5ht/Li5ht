@@ -1,8 +1,8 @@
-## 🐥 Profile
+## 👩‍💼 Profile
 
-🇰🇷 Inha University Dept. of Computer Science & Engineering (2019~) <br/>
-🇺🇸 Taylor University, Upland Indiana (2023.01 - 2023.05) <br/>
-⚒ WIPS (2021.08 ~ 2021.12)
+🇬🇧 Sutton High School(~2018.07)
+🇰🇷 Ewha Womans University High School (2018.8~2020.2)
+🇰🇷 Dongduk Women's University Dept. of Computer Science (2020~) <br/>
 <br><br>
 ## :snail: Languages
 @@ -24,7 +25,8 @@
