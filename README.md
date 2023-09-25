@@ -1,13 +1,4 @@
 <div align="center">
-
-
-​[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhojeong2747%2Fhit-counter&count_bg=%23D1D1D1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=today%2Ftotal&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-### 💬 About me
-✨ I'm interested in Back-end development based on Spring Boot framework.<br>
-🌱 I'm currently majoring in Computer Science at Dongduk Women's University.<br>
-❤️ I love to code and study algorithm.<br>
 ​
 ### 🛠️ Tech Stack 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> 
