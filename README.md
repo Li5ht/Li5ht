@@ -7,7 +7,6 @@
 
 ## 🌏 Github Stats
 ![Yeji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Li5ht&show_icons=true&theme=omni)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Li5ht&layout=compact&langs_count=5&theme=dark&hide=c%23)](https://github.com/Li5ht/github-readme-stats)
 
 
