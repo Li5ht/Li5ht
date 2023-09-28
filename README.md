@@ -10,3 +10,7 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
 
 
+## 🌏 Github Stats
+![Yeji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Li5ht&show_icons=true&theme=omni)
+
+
