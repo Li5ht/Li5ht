@@ -1,7 +1,5 @@
 ## 👩‍💼 Profile
 🇰🇷 Dongduk Women's University - Dept. of Computer Science (2020~)<br/>
-<br>
-
 ## 🛠️ Tech Tools
 #### 🖥️ Programme
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black">  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">  <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
