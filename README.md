@@ -4,7 +4,25 @@
 🇰🇷 Dongduk Women's University - Dept. of Computer Science (2020.03 ~ 2024.02)<br/>
 ## 🛠️ Tech Tools
 #### 🖥️ Tech Stack
-<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black">  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">  <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5 badge" class="badge">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript badge" class="badge">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3 badge" class="badge">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" alt="React badge" class="badge">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL badge" class="badge">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle badge" class="badge">
+    <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=Apache%20Tomcat&logoColor=black" alt="Apache Tomcat badge" class="badge">
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white" alt="Eclipse badge" class="badge">
+    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white" alt="IntelliJ IDEA badge" class="badge">
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white" alt="Visual Studio badge" class="badge">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" alt="Visual Studio Code badge" class="badge">
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white" alt="Android Studio badge" class="badge">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter badge" class="badge">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter badge" class="badge">
+    <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=Google%20Colab&logoColor=white" alt="Colab badge" class="badge">
+    <img src="https://img.shields.io/badge/Java%20JDBC-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java JDBC badge" class="badge">
+    <img src="https://img.shields.io/badge/MyBatis-35A69E?style=for-the-badge&logo=MyBatis&logoColor=white" alt="MyBatis badge" class="badge">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" alt="Spring badge" class="badge">
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white" alt="Spring Boot badge" class="badge">
 
 
 
