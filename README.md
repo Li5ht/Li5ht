@@ -3,6 +3,7 @@
 🇰🇷 Ewha Women's University High School (2018.08 ~ 2020.02)<br/>
 🇰🇷 Dongduk Women's University - Dept. of Computer Science (2020.03 ~ 2024.02)<br/>
 
+
 # 🛠️ Tech Tools
 ## 🖥️ Tech Stack
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5 badge" class="badge"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript badge" class="badge">  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3 badge" class="badge">  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" alt="React badge" class="badge">  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL badge" class="badge">  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle badge" class="badge">  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=Apache%20Tomcat&logoColor=black" alt="Apache Tomcat badge" class="badge">  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white" alt="Eclipse badge" class="badge">
