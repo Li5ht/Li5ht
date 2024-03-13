@@ -11,8 +11,7 @@
 
 
 ## ⌨️ Language
-<img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=OpenJDK&logoColor=black"/><img src="https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=OpenJDK&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black"/>
-
+ <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=OpenJDK&logoColor=black" alt="Java badge" class="badge">  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black" alt="C badge" class="badge">  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python badge" class="badge">  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" alt="Kotlin badge" class="badge">
 
 ## 🌏 Github Stats
 ![Yeji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Li5ht&show_icons=true&theme=omni)<br/>
