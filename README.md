@@ -4,12 +4,6 @@
 
 # 🛠️ Tech Tools
 
-# Technologies & Tools
-
-# Technologies & Tools
-
-# Technologies & Tools
-
 | **Category**       | **Tools/Technologies**                                                                                                                                                      |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Stacks**         | ![Java badge](https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=OpenJDK&logoColor=black)  
