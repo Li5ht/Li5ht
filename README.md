@@ -4,8 +4,6 @@
 
 # 🛠️ Tech Tools
 
-# Technologies & Tools
-
 | **Category**       | **Tools/Technologies**                                                                                                                                                      |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Stacks**         | ![Java badge](https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=OpenJDK&logoColor=black) ![C badge](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black) ![Python badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Kotlin badge](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white) |
