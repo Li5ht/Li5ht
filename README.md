@@ -15,7 +15,7 @@
 | **OS**              | ![Windows badge](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white) ![Linux badge](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black) ![Ubuntu badge](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white) |
 | **Data Modeling**  | ![erwin badge](https://img.shields.io/badge/erwin-007DB8?style=flat-square&logoColor=white) ![draw.io badge](https://img.shields.io/badge/draw.io-FF9900?style=flat-square&logo=diagrams.net&logoColor=white) |
 | **Version Control**  | ![Git badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) |
-| **Collaborationl**  | ![GitHub badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) ![Notion badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white) ![Figma badge](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)|
+| **Collaboration**  | ![GitHub badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) ![Notion badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white) ![Figma badge](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)|
 | **Communication**  | ![Google Drive badge](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat-square&logo=Google%20Drive&logoColor=white) ![Google Meet badge](https://img.shields.io/badge/Google%20Meet-32A350?style=flat-square&logo=Google%20Meet&logoColor=white) ![Zoom badge](https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=Zoom&logoColor=white) |
 
 
