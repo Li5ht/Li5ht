@@ -9,7 +9,7 @@
 | **Stacks**       | ![Java badge](https://img.shields.io/badge/Java-f2e68b?style=flat-square&logo=OpenJDK&logoColor=black) |
 | **Frontend**       | ![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) 
                       ![JavaScript badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) 
-                      [CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white) |
+                      ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white) |
 | **Backend**        | ![Java badge](https://img.shields.io/badge/Java-f2e68b?style=flat-square&logo=OpenJDK&logoColor=black) 
                         ![JSP badge](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white) 
                         ![Java JDBC badge](https://img.shields.io/badge/Java%20JDBC-007396?style=flat-square&logo=Java&logoColor=white)
