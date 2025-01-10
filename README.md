@@ -1,5 +1,7 @@
 # 👩‍💼 Profile
-🇰🇷 Dongduk Women's University - Dept. of Computer Science (2020.03 ~ 2024.02)<br/>
+🇰🇷 Dongduk Women's University (2020.03 ~ 2024.02)
+- (Major) Dept. of Computer Science
+- (Micro Degree) AI / Bigdata <br/>
 <br/>
 
 # 🛠️ Tech Tools
