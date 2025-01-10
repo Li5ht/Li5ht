@@ -1,5 +1,6 @@
 # 👩‍💼 Profile
-🇰🇷 Dongduk Women's University (2020.03 ~ 2024.02)
+🇰🇷 <img src="https://i.namu.wiki/i/3fctgvIm76Anf0RaZ1dMCwnTrSYf9o5TSiQW2JaCj5FNDrMbJ0HgIiLAJc5OImkYKFVE5QTia2iDtoVu-uVrKnFe4Y59wmpaDjMSIkbGaPMCRwdOzAonwfw5ElHetgxUJXMZ_pyIUTzghk0vedcDqQ.svg" alt="icon" width="32" height="32">
+Dongduk Women's University (2020.03 ~ 2024.02)
 - (Major) Dept. of Computer Science
 - (Micro Degree) AI / Bigdata <br/>
 <br/>
