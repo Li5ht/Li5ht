@@ -1,5 +1,5 @@
   # 👩‍💼 Profile
-  🇰🇷 <img src="https://i.namu.wiki/i/3fctgvIm76Anf0RaZ1dMCwnTrSYf9o5TSiQW2JaCj5FNDrMbJ0HgIiLAJc5OImkYKFVE5QTia2iDtoVu-uVrKnFe4Y59wmpaDjMSIkbGaPMCRwdOzAonwfw5ElHetgxUJXMZ_pyIUTzghk0vedcDqQ.svg" alt="icon" width="12" height="12"> **Dongduk Women's University (2020.03 ~ 2024.02)**
+  🇰🇷 <img src="[https://i.namu.wiki/i/3fctgvIm76Anf0RaZ1dMCwnTrSYf9o5TSiQW2JaCj5FNDrMbJ0HgIiLAJc5OImkYKFVE5QTia2iDtoVu-uVrKnFe4Y59wmpaDjMSIkbGaPMCRwdOzAonwfw5ElHetgxUJXMZ_pyIUTzghk0vedcDqQ.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjhHXL78L8DA-pN9LNe2TIKLM_g07-mfxd4Q&s)" alt="icon" width="12" height="12"> **Dongduk Women's University (2020.03 ~ 2024.02)**
   - (Major) Dept. of Computer Science
   - (Micro Degree) AI / Bigdata
   
