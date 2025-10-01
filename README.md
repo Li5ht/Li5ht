@@ -21,7 +21,7 @@
 <p>
   
   #### 💾 Data Consultant, Big Dipper (2025.04.01 ~ Present)
-  <i>Dispatched to KB Kookmin Card – Data Business Division</i> <br/>
+  <i>Dispatched to KB Kookmin Card – Data Business Division</i> 
   <br/>
   🔹 Data analysis, preprocessing, and visualization for business insights<br/>
   🔹 Supported data-driven decision making using SQL, Python, BI tools<br/>
