@@ -9,7 +9,7 @@
 
 ## 💼 Work Experience
 **Assistant Manager (주임), Big Dipper**  
-_Dispatched to KB Card – Data Business Division_  
+_Dispatched to KB Kookmin Card – Data Business Division_  
 - Conducted **data analysis, preprocessing, and visualization** for business insights  
 - Supported **data-driven decision making** through SQL, Python, and BI tools  
 - Collaborated across teams to enhance efficiency in analytics and reporting  
