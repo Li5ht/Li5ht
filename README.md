@@ -11,8 +11,8 @@
 <p>
   🇰🇷 <img src="https://theseedwikifile.theseed.io/35/3575d1948fdd0c47ab08fad2fa54eb174b616f7d0daf786d1804e5e004c8c22b.webp" alt="icon" width="14" height="14">  
   <b>Dongduk Women's University (2020.03 ~ 2024.02)</b><br/>
-  🎓 B.S. in Computer Science <br/>
-  📊 Micro Degree: AI / Big Data
+  🔹🎓 B.S. in Computer Science <br/>
+  🔹📊 Micro Degree: AI / Big Data
 </p>
 
 ---
@@ -32,14 +32,14 @@
 
 <p>
 <!-- Language -->
-<b>💻 Languages</b><br/>
+### 💻 Languages <br/><br/>
 <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=black"/> 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/><br/><br/>
 
 <!-- Frontend -->
-<b>🎨 Frontend</b><br/>
+### 🎨 Frontend<br/><br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -47,7 +47,7 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/><br/><br/>
 
 <!-- Backend -->
-<b>⚙️ Backend</b><br/>
+### ⚙️ Backend <br/><br/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MyBatis-35A69E?style=for-the-badge&logoColor=white"/>
@@ -55,7 +55,7 @@
 <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/><br/><br/>
 
 <!-- AI Tools -->
-<b>🤖 AI / Data</b><br/>
+### 🤖 AI / Data<br/><br/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -63,14 +63,14 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/><br/><br/>
 
 <!-- Database -->
-<b>🗄️ Database</b><br/>
+### 🗄️ Database<br/><br/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"/>
 <img src="https://img.shields.io/badge/Apache%20Impala-FF6600?style=for-the-badge&logo=apache&logoColor=white"/><br/><br/>
 
 <!-- Tools & IDE -->
-<b>🛠️ Tools & IDE</b><br/>
+### 🛠️ Tools & IDE<br/><br/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -79,7 +79,7 @@
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/><br/><br/>
 
 <!-- Collaboration & Version Control -->
-<b>🌍 Collaboration & Version Control</b><br/>
+### 🌍 Collaboration & Version Control<br/><br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
