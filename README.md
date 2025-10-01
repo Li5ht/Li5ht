@@ -20,7 +20,8 @@
 ## 💼 Work Experience
 <p>
   <b>Data Consultant (주임), Big Dipper</b><br/>
-  <i>Dispatched to KB Kookmin Card – Data Business Division</i><br/><br/>
+  <i>Dispatched to KB Kookmin Card – Data Business Division</i> <br/>
+  🗓️ 2025.04.01 ~ Present<br/><br/>
   🔹 Data analysis, preprocessing, and visualization for business insights<br/>
   🔹 Supported data-driven decision making using SQL, Python, BI tools<br/>
   🔹 Cross-team collaboration to enhance analytics & reporting efficiency
