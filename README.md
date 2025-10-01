@@ -2,7 +2,7 @@
 
 <!-- Header -->
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=🌸%20Yeji%20Park%20🌸&fontSize=42&fontAlign=50&fontAlignY=40&animation=twinkling&desc=Computer%20Science%20%7C%20Data%20Analysis%20%7C%20AI/BigData&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=🌸%20Yeji%20Park%20🌸&fontColour=white&fontSize=42&fontAlign=50&fontAlignY=40&animation=twinkling&desc=Computer%20Science%20%7C%20Data%20Analysis%20%7C%20AI/BigData&descAlign=50&descAlignY=60" />
 </p>
 
 ---
