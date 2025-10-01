@@ -1,7 +1,18 @@
   # 👩‍💼 Profile
+
+  ## 🎓 Education
   🇰🇷 <img src="https://theseedwikifile.theseed.io/35/3575d1948fdd0c47ab08fad2fa54eb174b616f7d0daf786d1804e5e004c8c22b.webp" alt="icon" width="12" height="12"> **Dongduk Women's University (2020.03 ~ 2024.02)**
-  - (Major) Dept. of Computer Science
-  - (Micro Degree) AI / Bigdata
+- B.S. in Computer Science  
+- Micro Degree: AI / Big Data  
+
+---
+
+## 💼 Work Experience
+**Assistant Manager (주임), Big Dipper**  
+_Dispatched to KB Card – Data Business Division_  
+- Conducted **data analysis, preprocessing, and visualization** for business insights  
+- Supported **data-driven decision making** through SQL, Python, and BI tools  
+- Collaborated across teams to enhance efficiency in analytics and reporting  
   
   # 🛠️ Tech Tools
   
