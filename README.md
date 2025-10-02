@@ -5,8 +5,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=🌸%20Yeji%20Park%20🌸&fontColour=white&fontSize=42&fontAlign=50&fontAlignY=40&animation=twinkling&desc=Computer%20Science%20%7C%20Data%20Analysis%20%7C%20AI/BigData&descAlign=50&descAlignY=60" />
 </p>
 
----
-
 ## 🎓 Education
 <p>
   🇰🇷 <img src="https://theseedwikifile.theseed.io/35/3575d1948fdd0c47ab08fad2fa54eb174b616f7d0daf786d1804e5e004c8c22b.webp" alt="icon" width="14" height="14">  
@@ -14,8 +12,6 @@
   🔹🎓 B.S. in Computer Science <br/>
   🔹📊 Micro Degree: AI / Big Data
 </p>
-
----
 
 ## 💼 Work Experience
 <p>
@@ -27,8 +23,6 @@
   🔹 Supported data-driven decision making using SQL, Python, BI tools<br/>
   🔹 Cross-team collaboration to enhance analytics & reporting efficiency
 </p>
-
----
 
 ## 🛠️ Tech Tools  
 
@@ -89,8 +83,6 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white"/>
 </p>
-
----
 
 # 🌏 GitHub Stats  
 <p>
