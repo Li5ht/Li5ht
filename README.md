@@ -3,7 +3,7 @@
 <!-- Header -->
 <p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=🌸%20Yeji%20Park%20🌸&fontColour=white&fontSize=42&fontAlign=50&fontAlignY=40&animation=twinkling&desc=Computer%20Science%20%7C%20Data%20Analysis%20%7C%20AI/BigData&descAlign=50&descAlignY=60" />
-</p>
+</p><br/>
 
 ## 🎓 Education
 <p>
@@ -22,7 +22,7 @@
   🔹 Data analysis, preprocessing, and visualization for business insights<br/>
   🔹 Supported data-driven decision making using SQL, Python, BI tools<br/>
   🔹 Cross-team collaboration to enhance analytics & reporting efficiency
-</p>
+</p><br/>
 
 ## 🛠️ Tech Tools  
 
@@ -82,15 +82,13 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white"/>
-</p>
+</p><br/>
 
 # 🌏 GitHub Stats  
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Li5ht&show_icons=true&theme=omni" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Li5ht&layout=compact&langs_count=6&theme=omni" height="165"/>
-</p>
-
----
+</p><br/>
 
 ✨ _“Always seeking growth through data and technology.”_ ✨  
 
