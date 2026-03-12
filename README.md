@@ -16,12 +16,16 @@
 ## 💼 Work Experience
 <p>
 
-  #### 💾 Data Consultant, Big Dipper (2025.04.01 ~ Present)
+  #### 💾 Data Consultant, Big Dipper (2025.04. ~ 2026.01.)
   <i>Dispatched to KB Kookmin Card – Data Business Division</i> 
   <br/><br/>
   🔹 Data analysis, preprocessing, and visualization for business insights<br/>
   🔹 Supported data-driven decision making using SQL, Python, BI tools<br/>
   🔹 Cross-team collaboration to enhance analytics & reporting efficiency
+
+   #### 💾 Intern, Rainbow Brain (2023.06 ~ 2023.07)
+  <i>QA</i> 
+  🔹Conducted testing, data validation, and result verification for AI models in development
 </p><br/>
 
 ## 🛠️ Tech Tools  
