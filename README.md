@@ -70,7 +70,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black"/>
 <img src="https://img.shields.io/badge/Apache%20Impala-FF6600?style=flat-square&logo=apache&logoColor=white"/>
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Environment-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)<br/>
+<img src="https://img.shields.io/badge/AWS-Data%20Environment-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/><br/>
 
 <!-- Tools & IDE -->
 #### 🛠️ Tools & IDE<br/>
