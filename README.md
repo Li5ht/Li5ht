@@ -16,7 +16,7 @@
 ## 💼 Work Experience
 <p>
 
-  #### 💾 Data Consultant, Big Dipper (2025.04. ~ 2026.01.)
+  #### 💾 Data Consultant, Big Dipper (2025.04. ~ 2026.02.)
   <i>Dispatched to KB Kookmin Card – Data Business Division</i> 
   <br/><br/>
   🔹 Data analysis, preprocessing, and visualization for business insights<br/>
